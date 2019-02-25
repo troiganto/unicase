@@ -1,3 +1,4 @@
+/// 5000 random English words.
 pub static WORDS: &'static [&'static str] = &[
     "Bunin",
     "crinkling",

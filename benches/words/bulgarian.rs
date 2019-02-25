@@ -1,3 +1,4 @@
+/// 5000 random Bulgarian words.
 pub static WORDS: &'static [&'static str] = &[
     "пропявалият",
     "спазиш",
